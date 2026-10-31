@@ -2,7 +2,7 @@
   <img src="icons/192/phutkrub-192.png" alt="PhutKrub: a gold พ on coral" width="96" height="96">
 </p>
 
-# พูดครับ · PhutKrub Web v0.1.0
+# พูดครับ · PhutKrub Web v0.2.0
 
 **โปรแกรมทำงานนำเสนอภาษาไทยและภาษาอังกฤษ ใช้งานฟรีบนเว็บ**
 
@@ -31,4 +31,4 @@ PhutKrub is Chanon Sarasuk's Thai fork of [DeckCraft](https://github.com/storyto
 compiled site only; the source code is private. Third-party components keep their own licences: see
 `ATTRIBUTION.md`, `NOTICE`, and `fonts/` (Sarabun: SIL OFL 1.1; TH Sarabun New: GPL with the font exception).
 
-Prepared from version **0.1.0**, source commit `893d16df`.
+Prepared from version **0.2.0**, source commit `cc3e129b`.
