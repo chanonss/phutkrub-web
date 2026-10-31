@@ -31,4 +31,4 @@ PhutKrub is Chanon Sarasuk's Thai fork of [DeckCraft](https://github.com/storyto
 compiled site only; the source code is private. Third-party components keep their own licences: see
 `ATTRIBUTION.md`, `NOTICE`, and `fonts/` (Sarabun: SIL OFL 1.1; TH Sarabun New: GPL with the font exception).
 
-Prepared from version **0.1.0**, source commit `407ed979`.
+Prepared from version **0.1.0**, source commit `893d16df`.
