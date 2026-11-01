@@ -2,13 +2,13 @@
   <img src="icons/192/phutkrub-192.png" alt="PhutKrub: a gold พ on coral" width="96" height="96">
 </p>
 
-# พูดครับ · PhutKrub Web v0.3.0
+# พูดครับ · PhutKrub Web v0.3.1
 
 **โปรแกรมทำงานนำเสนอภาษาไทยและภาษาอังกฤษ ใช้งานฟรีบนเว็บ**
 
 **A free browser-based presentation app for Thai and English.**
 
-**[เปิดใช้งาน / Open PhutKrub](https://phutkrub.app/)** · [KrubOffice](https://kruboffice.app/) · [เขียนครับ · KhianKrub](https://khiankrub.app/)
+**[เปิดใช้งาน / Open PhutKrub](https://phutkrub.app/)** · [KrubOffice](https://kruboffice.app/) · [เขียนครับ · KhianKrub](https://khiankrub.app/) · [คิดครับ · KhitKrub](https://khitkrub.app/)
 
 <p align="center">
   <img src="images/phutkrub-editor.png" alt="PhutKrub with Thai menus: the coral band with a gold Present button, the white active tab joined to the ribbon, slide thumbnails and the sample deck Northern Lights" width="100%">
@@ -16,21 +16,15 @@
 
 ## ประกาศภาษาไทย
 
-**พูดครับบนเว็บ (PhutKrub Web) v0.3.0** เพิ่มหน้าเริ่มต้นแบบเดียวกับเขียนครับ และเก็บฉบับร่างไว้ให้ในเบราว์เซอร์ครับ
+**พูดครับบนเว็บ (PhutKrub Web) v0.3.1** พาไปยังคิดครับได้แล้วครับ
 
-- **หน้าเริ่มต้น** เลือกธีมหรือชุดสไลด์เริ่มต้น แต่ละงานเปิดในแท็บใหม่ หน้าเริ่มต้นยังอยู่ที่เดิม มีปุ่มเปิดไฟล์ ตัวเลือก และปุ่มสลับแอป (จุดเก้าจุด) ไปยังเขียนครับ
-- **ฉบับร่างในเบราว์เซอร์** โปรแกรมเก็บสำเนางานไว้ในเบราว์เซอร์หลังหยุดพิมพ์ประมาณ 2 วินาที กลับมาเขียนต่อ ดาวน์โหลดเป็น `.pptx` หรือทิ้งได้ที่หน้าเริ่มต้น ไม่มีอะไรถูกส่งออกจากเครื่อง
-- **หน้าตาใหม่** แถบด้านบนสีส้มอิฐตามไอคอน แท็บที่เปิดอยู่เป็นสีขาวต่อกับริบบิ้น ไฮไลต์สีทอง
-- แก้เส้นขาวที่คั่นระหว่างแถบชื่อกับแถบแท็บ
+- **ปุ่มสลับแอป** ปุ่มจุดเก้าจุดที่หน้าเริ่มต้นพาไปยังเขียนครับและ **คิดครับ** (โปรแกรมตารางคำนวณ อยู่ที่ [khitkrub.app](https://khitkrub.app/)) ได้ ลิงก์เปิดในแท็บใหม่ และป้าย "รอว่างก่อนนะครับ" หายไปแล้ว
 
 ## English announcement
 
-**PhutKrub Web v0.3.0** adds a start screen like KhianKrub's, and keeps drafts for you in the browser.
+**PhutKrub Web v0.3.1** now leads to KhitKrub.
 
-- **A start screen.** Pick a theme or a starter deck; each opens in a new tab and the start screen stays where it is. It has Open file, Options and an app switcher (the nine-dot button) leading to KhianKrub.
-- **Drafts in the browser.** The app keeps a copy of your work in the browser about two seconds after you stop typing. Back on the start screen you can keep working, download a `.pptx`, or discard it. Nothing leaves your device.
-- **A new look.** A coral top band in the icon's colour, a white active tab that joins the ribbon, and gold highlights.
-- A white line between the title bar and the tab strip is gone.
+- **App switcher.** The nine-dot button on the start screen leads to KhianKrub and to **KhitKrub** (the spreadsheet app, at [khitkrub.app](https://khitkrub.app/)). The links open in a new tab, and the "coming soon" label is gone.
 
 ## หน้าตาโปรแกรม / A look around
 
@@ -63,4 +57,4 @@
 
 PhutKrub is Chanon Sarasuk's Thai adaptation of [DeckCraft](https://github.com/storytold/deckcraft) by the ArtCraft team (MIT OR Apache-2.0), one of the apps in [KrubOffice](https://kruboffice.app/). It is not an ArtCraft product and is not affiliated with Microsoft. The screenshots are taken from the running app and show DeckCraft's original sample deck. This repository holds the compiled site only; the source code is private. Third-party components keep their own licences: see `ATTRIBUTION.md`, `NOTICE`, and `fonts/` (Sarabun: SIL OFL 1.1; TH Sarabun New: GPL with the font exception).
 
-Prepared from version **0.3.0**, source commit `687a23dd`.
+Prepared from version **0.3.1**, source commit `db66f913`.
