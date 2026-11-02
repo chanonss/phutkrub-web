@@ -22,6 +22,7 @@
 - **ไอคอนชุดใหม่** ไอคอนบนริบบิ้นวาดใหม่ทั้งชุด เส้นสีเข้มอ่านง่าย แต้มสีทองเฉพาะส่วนสำคัญ ใช้ชุดเดียวกับเขียนครับและคิดครับ
 - **ริบบิ้นแบบเดียวกับเขียนครับ** ไอคอนใหญ่ขึ้น ปุ่มเรียงกึ่งกลางแถบ ระยะห่างเท่ากันทุกกลุ่ม
 - **โลโก้ใหม่** ตัว พ สีทองบนพื้นสีส้มอิฐ แบบกระจกมีประกาย ทั้งหน้ารอเปิดโปรแกรมและหน้าเริ่มต้น
+- **ภาพเคลื่อนไหวขณะรอเปิดโปรแกรม** แผ่นสีทองกับแผ่นสีส้มอิฐลอยเข้ามาซ้อนหลังโลโก้ แบบเดียวกับเขียนครับ
 - **แก้ปัญหา** ช่องค้นหาคำสั่งไม่หยุดทำงานเมื่อฟอนต์ไม่มีสัญลักษณ์ปุ่มลัดอย่าง ⌥ แต่แสดงเป็นตัวอักษรแทน
 
 ## English announcement
@@ -32,6 +33,7 @@
 - **New icons.** Every ribbon icon has been redrawn: dark, easy-to-read lines with a touch of gold where it matters, the same set as KhianKrub and KhitKrub.
 - **KhianKrub's ribbon.** Larger icons, buttons centred in the ribbon, and even spacing in every group.
 - **A new logo.** A gold พ on coral with a glass shine, on the loading screen and the start screen.
+- **A loading animation.** A gold sheet and a coral sheet fly in behind the logo while the app loads, as in KhianKrub.
 - **Fixed.** The command search no longer stops working when the font has no shortcut symbol such as ⌥; it spells the shortcut out instead.
 
 ## หน้าตาโปรแกรม / A look around
@@ -72,4 +74,4 @@
 
 PhutKrub is Chanon Sarasuk's Thai adaptation of [DeckCraft](https://github.com/storytold/deckcraft) by the ArtCraft team (MIT OR Apache-2.0), one of the apps in [KrubOffice](https://kruboffice.app/). It is not an ArtCraft product and is not affiliated with Microsoft. The screenshots are taken from the running app and show DeckCraft's original sample deck. This repository holds the compiled site only; the source code is private. Third-party components keep their own licences: see `ATTRIBUTION.md`, `NOTICE`, and `fonts/` (Sarabun: SIL OFL 1.1; TH Sarabun New: GPL with the font exception).
 
-Prepared from version **0.4.0**, source commit `a01175db`.
+Prepared from version **0.4.0**, source commit `baca8cf2`.
