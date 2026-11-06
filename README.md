@@ -2,7 +2,7 @@
   <img src="icons/192/phutkrub-192.png" alt="PhutKrub: a gold พ on coral" width="96" height="96">
 </p>
 
-# พูดครับ · PhutKrub Web v0.5.0
+# พูดครับ · PhutKrub Web v0.5.1
 
 **โปรแกรมทำงานนำเสนอภาษาไทยและภาษาอังกฤษ ใช้งานฟรีบนเว็บ**
 
@@ -16,35 +16,19 @@
 
 ## ประกาศภาษาไทย
 
-**พูดครับบนเว็บ (PhutKrub Web) v0.5.0** เปิดและบันทึกไฟล์ใน Google Drive ได้แล้ว พร้อมมุมมองผู้บรรยายในหน้าต่างแยกครับ
+**พูดครับบนเว็บ (PhutKrub Web) v0.5.1** หน้าเกี่ยวกับโปรแกรมเป็นแบบเดียวกับเขียนครับแล้วครับ
 
-- **Google Drive** เชื่อมต่อ Google Drive ในคลิกเดียวแบบเดียวกับเขียนครับ เปิดงานนำเสนอ `.pptx` จาก Drive แก้ไขแล้วกดบันทึก (Ctrl+S) ไฟล์เดิมใน Drive จะถูกบันทึกทับ หรือบันทึกเป็นสำเนาใหม่ก็ได้ โปรแกรมเข้าถึงเฉพาะไฟล์ที่คุณเลือกหรือที่โปรแกรมสร้างเท่านั้น
-- **มุมมองผู้บรรยายในหน้าต่างแยก** เมื่อเริ่มนำเสนอ สไลด์จะแสดงเต็มแท็บเดิม และมุมมองผู้บรรยายเปิดในหน้าต่างใหม่ พร้อมสไลด์ปัจจุบัน สไลด์ถัดไป บันทึกย่อ และตัวจับเวลา ภาพตรงกับที่ผู้ชมเห็น รวมทั้งภาพเคลื่อนไหวทีละขั้น ควบคุมการนำเสนอได้จากหน้าต่างใดก็ได้ ปุ่มและข้อความเป็นภาษาไทย หากเบราว์เซอร์บล็อกป๊อปอัป กดปุ่ม เปิดหน้าต่างมุมมองผู้บรรยาย หลังอนุญาตป๊อปอัป
-- **ฉบับร่างในอุปกรณ์นี้** งานนำเสนอใหม่ที่ยังไม่ได้บันทึกเป็นไฟล์หรือลง Google Drive เรียกว่าฉบับร่างอย่างชัดเจน หน้าเริ่มต้นแสดง **ชื่อ (ฉบับร่าง)** แถบชื่อด้านบนแสดง **(ฉบับร่าง) — บันทึกในอุปกรณ์นี้แล้ว** และเมื่อทุกอย่างถูกเก็บแล้ว ปิดแท็บได้โดยเบราว์เซอร์ไม่ถาม
-- **ถามก่อนปิดแท็บเมื่องานจะหาย** ไฟล์ที่เปิดจากเครื่องหรือ Google Drive ที่ยังมีการแก้ไขค้างอยู่ เบราว์เซอร์จะถามก่อนปิดแท็บ
-- **ถามบันทึกการเปลี่ยนแปลงเป็นภาษาไทย** ปุ่ม ไม่บันทึก และ ยกเลิก เป็นภาษาไทยแล้ว และปุ่ม ยกเลิก ในกล่องโต้ตอบทุกกล่องด้วย
-- **ไฟล์ › เกี่ยวกับ** แทนหน้าบัญชีเดิม มีรุ่นของโปรแกรม ลิงก์ และผู้ร่วมพัฒนา
-- **รูปร่างที่ไม่มีสีเติม** คลิกผ่านไปเลือกสิ่งที่อยู่ข้างใต้ได้
-- **จัดรูปแบบรูปร่าง** มีเอฟเฟกต์เงา เรืองแสง และขอบนุ่มแบบสำเร็จรูป และปรับสัดส่วนความสูง/ความกว้างได้
-- **แก้ไขข้อผิดพลาด** บานหน้าต่างข้อคิดเห็นไม่ขยายเองอีกต่อไป และเมนูเพิ่มภาพเคลื่อนไหวเลื่อนดูได้เมื่อยาวกว่าหน้าจอ
-- **ไฟล์ PowerPoint** เก็บรายละเอียดได้ครบขึ้น เช่น ตารางจากขวาไปซ้าย เงาสะท้อน และลายเติมแบบกระเบื้อง
-- **ทนทานขึ้น** จำกัดงานที่ไฟล์ผิดปกติสั่งให้ทำ เพื่อไม่ให้โปรแกรมค้างหรือปิดตัวเอง
+- **ไฟล์ › เกี่ยวกับ แบบเดียวกับเขียนครับ** แสดงชื่อพูดครับ รุ่นของโปรแกรม คำอธิบายภาษาไทย ลิงก์หน้าโครงการ และลิงก์โครงการต้นฉบับ DeckCraft เหมือนกันทั้งสามโปรแกรมใน KrubOffice ลิงก์ Discord ของโครงการต้นฉบับนำออกแล้ว
+
+รายการใหม่ของรุ่น 0.5.0 ดูได้ที่[หน้ารุ่น 0.5.0](https://github.com/chanonss/phutkrub-web/releases/tag/v0.5.0)
 
 ## English announcement
 
-**PhutKrub Web v0.5.0** adds Google Drive and Presenter View in its own window.
+**PhutKrub Web v0.5.1** has the same About page as KhianKrub.
 
-- **Google Drive.** Connect Google Drive in one click, as in KhianKrub: open a `.pptx` presentation from Drive, edit it, and Save (Ctrl+S) puts it back over the same file, or save a new copy. The app sees only the files you pick or it creates.
-- **Presenter View in its own window.** When a show starts, the slides fill this tab and Presenter View opens in a new window with the current and next slide, notes and a timer. It shows what the audience sees, animation steps included, and either window controls the show. Its buttons and messages are in Thai. If the browser blocks the pop-up, allow pop-ups and press **Open presenter window**.
-- **Drafts on this device.** A new presentation not yet saved as a file or to Google Drive is plainly called a draft: the start screen lists **Name (draft)**, the title bar reads **(draft) — Saved on this device**, and once everything is kept the tab closes without the browser asking.
-- **Asks before closing when work would be lost.** A file opened from this device or Google Drive with unsaved edits makes the browser ask before the tab closes.
-- **Save Changes in Thai.** Don't Save and Cancel are in Thai, and so is Cancel in every dialog.
-- **File › About** replaces the old account page, with the app's version, links and contributors.
-- **Shapes with no fill** can be clicked through to select what's underneath.
-- **Format Shape** has shadow, glow and soft-edge presets, and height and width scaling.
-- **Fixes.** The Comments pane no longer grows by itself, and the Add Animation menu scrolls when it's taller than the screen.
-- **PowerPoint files** keep more detail, such as right-to-left tables, reflections and tiled fills.
-- **Sturdier.** The work an unusual file can ask for is limited, so the app doesn't hang or close.
+- **File › About matches KhianKrub.** It shows the PhutKrub name, the version, a Thai description, a link to the project and to the original DeckCraft project, the same in all three KrubOffice apps. The original project's Discord link is gone.
+
+What came new in 0.5.0: [release 0.5.0](https://github.com/chanonss/phutkrub-web/releases/tag/v0.5.0).
 
 ## หน้าตาโปรแกรม / A look around
 
@@ -105,4 +89,4 @@ There is no server storage. A new presentation not yet saved as a file or to Goo
 
 PhutKrub is Chanon Sarasuk's Thai adaptation of [DeckCraft](https://github.com/storytold/deckcraft) by the ArtCraft team (MIT OR Apache-2.0), one of the apps in [KrubOffice](https://kruboffice.app/). It is not an ArtCraft product and is not affiliated with Microsoft. The screenshots are taken from the running app and show DeckCraft's original sample deck. This repository holds the compiled site only; the source code is private. Third-party components keep their own licences: see `ATTRIBUTION.md`, `NOTICE`, and `fonts/` (Sarabun: SIL OFL 1.1; TH Sarabun New: GPL with the font exception).
 
-Prepared from version **0.5.0**, source commit `f5bcb619`.
+Prepared from version **0.5.1**, source commit `db8a09f1`.
