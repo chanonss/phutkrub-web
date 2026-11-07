@@ -2,7 +2,7 @@
   <img src="icons/192/phutkrub-192.png" alt="PhutKrub: a gold พ on coral" width="96" height="96">
 </p>
 
-# พูดครับ · PhutKrub Web v0.5.1
+# พูดครับ · PhutKrub Web v0.6.0
 
 **โปรแกรมทำงานนำเสนอภาษาไทยและภาษาอังกฤษ ใช้งานฟรีบนเว็บ**
 
@@ -16,19 +16,24 @@
 
 ## ประกาศภาษาไทย
 
-**พูดครับบนเว็บ (PhutKrub Web) v0.5.1** หน้าเกี่ยวกับโปรแกรมเป็นแบบเดียวกับเขียนครับแล้วครับ
+**พูดครับบนเว็บ (PhutKrub Web) v0.6.0** มุมมองผู้นำเสนอบนเว็บใช้งานได้ครบขึ้น และปุ่มระหว่างนำเสนอเป็นภาษาไทยแล้วครับ
 
-- **ไฟล์ › เกี่ยวกับ แบบเดียวกับเขียนครับ** แสดงชื่อพูดครับ รุ่นของโปรแกรม คำอธิบายภาษาไทย ลิงก์หน้าโครงการ และลิงก์โครงการต้นฉบับ DeckCraft เหมือนกันทั้งสามโปรแกรมใน KrubOffice ลิงก์ Discord ของโครงการต้นฉบับนำออกแล้ว
-
-รายการใหม่ของรุ่น 0.5.0 ดูได้ที่[หน้ารุ่น 0.5.0](https://github.com/chanonss/phutkrub-web/releases/tag/v0.5.0)
+- **มุมมองผู้นำเสนอ: ปุ่มก่อนหน้าและถัดไปใช้ได้แล้ว** กดในหน้าต่างผู้นำเสนอ สไลด์ของผู้ชมเปลี่ยนตาม
+- **มุมมองผู้นำเสนอ: ดูสไลด์ทั้งหมด** กด "ทุกสไลด์" หรือปุ่ม G แล้วคลิกสไลด์ที่ต้องการเพื่อข้ามไป ผู้ชมเห็นเฉพาะสไลด์
+- **ปุ่มบนแท็บนำเสนอและระหว่างฉายสไลด์เป็นภาษาไทย** เช่น ใช้เวลาที่บันทึกไว้ จอดำ จอขาว ทุกสไลด์ จบ
+- **คัดลอกและวางดีขึ้น** วางรูปที่คัดลอกจากเว็บเบราว์เซอร์ได้เป็นรูป และช่องข้อความที่คัดลอกยังคงหน้าตาเดิม
+- **โหมดขาวดำ ส่งออก PDF และไฟล์ PowerPoint** ภาพย่อสไลด์เป็นขาวดำตามสไลด์ เลขสไลด์ใน PDF ค้นหาได้ และการตั้งค่าหลายอย่างไม่หายหลังบันทึก
 
 ## English announcement
 
-**PhutKrub Web v0.5.1** has the same About page as KhianKrub.
+**PhutKrub Web v0.6.0**: Presenter View on the web does more, and the slide show's buttons are in Thai.
 
-- **File › About matches KhianKrub.** It shows the PhutKrub name, the version, a Thai description, a link to the project and to the original DeckCraft project, the same in all three KrubOffice apps. The original project's Discord link is gone.
-
-What came new in 0.5.0: [release 0.5.0](https://github.com/chanonss/phutkrub-web/releases/tag/v0.5.0).
+- **Presenter View: Previous and Next work** in the presenter window, and the audience's slide follows.
+- **Presenter View: all slides.** Press All slides (or G) and pick a slide to jump to it; the audience sees only the slide.
+- **The Slide Show tab and the show's own buttons are in Thai** (Use Timings, Black, White, All slides, End…).
+- **Better copy and paste**: a picture copied in a browser pastes as a picture, and copied text boxes keep their look.
+- **Grayscale, PDF export and PowerPoint files**: thumbnails follow Grayscale, slide numbers in a PDF can be searched,
+  and more settings survive a save.
 
 ## หน้าตาโปรแกรม / A look around
 
@@ -89,4 +94,4 @@ There is no server storage. A new presentation not yet saved as a file or to Goo
 
 PhutKrub is Chanon Sarasuk's Thai adaptation of [DeckCraft](https://github.com/storytold/deckcraft) by the ArtCraft team (MIT OR Apache-2.0), one of the apps in [KrubOffice](https://kruboffice.app/). It is not an ArtCraft product and is not affiliated with Microsoft. The screenshots are taken from the running app and show DeckCraft's original sample deck. This repository holds the compiled site only; the source code is private. Third-party components keep their own licences: see `ATTRIBUTION.md`, `NOTICE`, and `fonts/` (Sarabun: SIL OFL 1.1; TH Sarabun New: GPL with the font exception).
 
-Prepared from version **0.5.1**, source commit `db8a09f1`.
+Prepared from version **0.6.0**, source commit `dfed3d70`.
