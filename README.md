@@ -2,7 +2,7 @@
   <img src="icons/192/phutkrub-192.png" alt="PhutKrub: a gold พ on coral" width="96" height="96">
 </p>
 
-# พูดครับ · PhutKrub Web v0.6.0
+# พูดครับ · PhutKrub Web v0.7.0
 
 **โปรแกรมทำงานนำเสนอภาษาไทยและภาษาอังกฤษ ใช้งานฟรีบนเว็บ**
 
@@ -16,24 +16,23 @@
 
 ## ประกาศภาษาไทย
 
-**พูดครับบนเว็บ (PhutKrub Web) v0.6.0** มุมมองผู้นำเสนอบนเว็บใช้งานได้ครบขึ้น และปุ่มระหว่างนำเสนอเป็นภาษาไทยแล้วครับ
+**พูดครับบนเว็บ (PhutKrub Web) v0.7.0** โฉมใหม่ ไอคอนชุดเดียวกันทั้ง KrubOffice และแถบเครื่องมือแบบสองขนาดครับ
 
-- **มุมมองผู้นำเสนอ: ปุ่มก่อนหน้าและถัดไปใช้ได้แล้ว** กดในหน้าต่างผู้นำเสนอ สไลด์ของผู้ชมเปลี่ยนตาม
-- **มุมมองผู้นำเสนอ: ดูสไลด์ทั้งหมด** กด "ทุกสไลด์" หรือปุ่ม G แล้วคลิกสไลด์ที่ต้องการเพื่อข้ามไป ผู้ชมเห็นเฉพาะสไลด์
-- **ปุ่มบนแท็บนำเสนอและระหว่างฉายสไลด์เป็นภาษาไทย** เช่น ใช้เวลาที่บันทึกไว้ จอดำ จอขาว ทุกสไลด์ จบ
-- **คัดลอกและวางดีขึ้น** วางรูปที่คัดลอกจากเว็บเบราว์เซอร์ได้เป็นรูป และช่องข้อความที่คัดลอกยังคงหน้าตาเดิม
-- **โหมดขาวดำ ส่งออก PDF และไฟล์ PowerPoint** ภาพย่อสไลด์เป็นขาวดำตามสไลด์ เลขสไลด์ใน PDF ค้นหาได้ และการตั้งค่าหลายอย่างไม่หายหลังบันทึก
+- **ไอคอนชุดใหม่ มาตรฐานเดียวกันทั้ง KrubOffice** ไอคอนทุกตัววาดใหม่เป็นเส้นบางแบบเดียวกับเขียนครับและคิดครับ
+- **แถบเครื่องมือแบบใหม่** ปุ่มสองขนาด ไม่เกินสองแถว ปุ่มเล็กชี้ค้างไว้เพื่อดูชื่อ
+- **ภาษาไทยในแถบเครื่องมือเรียบร้อยขึ้น** ชื่อภาพเคลื่อนไหวไม่ถูกตัด ช่องเสียงเป็นภาษาไทย
+- **เลือกภาษาของโปรแกรม** (ไทย / English) ได้ใน ไฟล์ › ตัวเลือก
+- **แท็บของรูปภาพ ตาราง และ SmartArt** เรียงใหม่ให้อ่านง่ายขึ้น
 
 ## English announcement
 
-**PhutKrub Web v0.6.0**: Presenter View on the web does more, and the slide show's buttons are in Thai.
+**PhutKrub Web v0.7.0**: a new look, with one icon set across KrubOffice and a two-size ribbon.
 
-- **Presenter View: Previous and Next work** in the presenter window, and the audience's slide follows.
-- **Presenter View: all slides.** Press All slides (or G) and pick a slide to jump to it; the audience sees only the slide.
-- **The Slide Show tab and the show's own buttons are in Thai** (Use Timings, Black, White, All slides, End…).
-- **Better copy and paste**: a picture copied in a browser pastes as a picture, and copied text boxes keep their look.
-- **Grayscale, PDF export and PowerPoint files**: thumbnails follow Grayscale, slide numbers in a PDF can be searched,
-  and more settings survive a save.
+- **New icons, one standard across KrubOffice**: every icon redrawn in the thin-line style shared with KhianKrub and KhitKrub.
+- **A new ribbon**: two button sizes, at most two rows; hover a small button for its name.
+- **Tidier Thai on the ribbon**: animation names are no longer cut off and the transition sound box is in Thai.
+- **Choose the interface language** (Thai / English) in File › Options.
+- **Picture, table and SmartArt tabs** rearranged to read more easily.
 
 ## หน้าตาโปรแกรม / A look around
 
@@ -94,4 +93,4 @@ There is no server storage. A new presentation not yet saved as a file or to Goo
 
 PhutKrub is Chanon Sarasuk's Thai adaptation of [DeckCraft](https://github.com/storytold/deckcraft) by the ArtCraft team (MIT OR Apache-2.0), one of the apps in [KrubOffice](https://kruboffice.app/). It is not an ArtCraft product and is not affiliated with Microsoft. The screenshots are taken from the running app and show DeckCraft's original sample deck. This repository holds the compiled site only; the source code is private. Third-party components keep their own licences: see `ATTRIBUTION.md`, `NOTICE`, and `fonts/` (Sarabun: SIL OFL 1.1; TH Sarabun New: GPL with the font exception).
 
-Prepared from version **0.6.0**, source commit `dfed3d70`.
+Prepared from version **0.7.0**, source commit `2e9b99b7`.
